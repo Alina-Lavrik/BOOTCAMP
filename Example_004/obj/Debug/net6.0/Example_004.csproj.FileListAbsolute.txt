@@ -1,0 +1,15 @@
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\obj\Debug\net6.0\Example_004.csproj.AssemblyReference.cache
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\obj\Debug\net6.0\Example_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\obj\Debug\net6.0\Example_004.AssemblyInfoInputs.cache
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\obj\Debug\net6.0\Example_004.AssemblyInfo.cs
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\obj\Debug\net6.0\Example_004.csproj.CoreCompileInputs.cache
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\bin\Debug\net6.0\Example_004.exe
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\bin\Debug\net6.0\Example_004.deps.json
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\bin\Debug\net6.0\Example_004.runtimeconfig.json
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\bin\Debug\net6.0\Example_004.dll
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\bin\Debug\net6.0\Example_004.pdb
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\obj\Debug\net6.0\Example_004.dll
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\obj\Debug\net6.0\refint\Example_004.dll
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\obj\Debug\net6.0\Example_004.pdb
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\obj\Debug\net6.0\Example_004.genruntimeconfig.cache
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Example_004\obj\Debug\net6.0\ref\Example_004.dll
