@@ -1,0 +1,15 @@
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\obj\Debug\net6.0\Ex_sort_podschetom_02.csproj.AssemblyReference.cache
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\obj\Debug\net6.0\Ex_sort_podschetom_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\obj\Debug\net6.0\Ex_sort_podschetom_02.AssemblyInfoInputs.cache
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\obj\Debug\net6.0\Ex_sort_podschetom_02.AssemblyInfo.cs
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\obj\Debug\net6.0\Ex_sort_podschetom_02.csproj.CoreCompileInputs.cache
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\bin\Debug\net6.0\Ex_sort_podschetom_02.exe
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\bin\Debug\net6.0\Ex_sort_podschetom_02.deps.json
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\bin\Debug\net6.0\Ex_sort_podschetom_02.runtimeconfig.json
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\bin\Debug\net6.0\Ex_sort_podschetom_02.dll
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\bin\Debug\net6.0\Ex_sort_podschetom_02.pdb
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\obj\Debug\net6.0\Ex_sort_podschetom_02.dll
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\obj\Debug\net6.0\refint\Ex_sort_podschetom_02.dll
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\obj\Debug\net6.0\Ex_sort_podschetom_02.pdb
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\obj\Debug\net6.0\Ex_sort_podschetom_02.genruntimeconfig.cache
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_sort_podschetom_02\obj\Debug\net6.0\ref\Ex_sort_podschetom_02.dll
