@@ -1,0 +1,15 @@
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\obj\Debug\net6.0\Ex_multiplication_mstrix_01.csproj.AssemblyReference.cache
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\obj\Debug\net6.0\Ex_multiplication_mstrix_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\obj\Debug\net6.0\Ex_multiplication_mstrix_01.AssemblyInfoInputs.cache
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\obj\Debug\net6.0\Ex_multiplication_mstrix_01.AssemblyInfo.cs
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\obj\Debug\net6.0\Ex_multiplication_mstrix_01.csproj.CoreCompileInputs.cache
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\bin\Debug\net6.0\Ex_multiplication_mstrix_01.exe
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\bin\Debug\net6.0\Ex_multiplication_mstrix_01.deps.json
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\bin\Debug\net6.0\Ex_multiplication_mstrix_01.runtimeconfig.json
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\bin\Debug\net6.0\Ex_multiplication_mstrix_01.dll
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\bin\Debug\net6.0\Ex_multiplication_mstrix_01.pdb
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\obj\Debug\net6.0\Ex_multiplication_mstrix_01.dll
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\obj\Debug\net6.0\refint\Ex_multiplication_mstrix_01.dll
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\obj\Debug\net6.0\Ex_multiplication_mstrix_01.pdb
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\obj\Debug\net6.0\Ex_multiplication_mstrix_01.genruntimeconfig.cache
+C:\Програмирование\GeekBrains\Буткемп. Программирование\Bootcamp_2\Ex_multiplication_mstrix_01\obj\Debug\net6.0\ref\Ex_multiplication_mstrix_01.dll
